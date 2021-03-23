@@ -1,0 +1,12 @@
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\bin\Release\netcoreapp3.1\Persistence.deps.json
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\bin\Release\netcoreapp3.1\Persistence.dll
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\bin\Release\netcoreapp3.1\Persistence.pdb
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\obj\Release\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\obj\Release\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\obj\Release\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\obj\Release\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\obj\Release\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\obj\Release\netcoreapp3.1\Persistence.dll
+C:\Users\pawel\Desktop\studia\SEM9\net\projekt\medcenter\Persistence\obj\Release\netcoreapp3.1\Persistence.pdb

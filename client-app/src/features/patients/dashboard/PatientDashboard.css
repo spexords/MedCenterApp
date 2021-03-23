@@ -1,0 +1,24 @@
+.patientDashboard {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.patientHeader {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.patientHeader > h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.patientFilters {
+    margin-top: 15px;
+}
+
+.patientTable {
+    overflow-y: auto;
+}

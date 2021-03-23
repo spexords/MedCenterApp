@@ -1,0 +1,13 @@
+.aquaButton {
+    margin-left: 15px;
+    display: grid;
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 0 15px;
+    padding: 0;
+    background-color: rgb(89, 225, 247);
+    color: white;
+    place-items: center;
+    font-size: 2em;
+    cursor: pointer;
+}

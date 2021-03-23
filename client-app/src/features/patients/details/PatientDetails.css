@@ -1,0 +1,65 @@
+
+.patientDetails {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    overflow: hidden;
+}
+
+.patientDetails__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(31,41,90);;
+}
+
+.patientDetails__data {
+    position: relative;
+    display: flex;
+    padding: 0 10px;
+    padding-top: 20px;
+    flex: 1;
+    overflow: hidden;
+    flex-direction: column;
+}
+
+.patientDetails__mode {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.patientDetails__mode > * {
+    padding: 0;
+    margin: 0;
+}
+
+.patientDetailedData {
+    display: flex;
+    flex-direction: column;
+}
+
+.patientDetailedData__header {
+    display: flex;
+    align-items:  center;
+    flex-direction: row;
+}
+
+.patientDetailedData__info {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.patientDetailedAppointments__container {
+    position: absolute;
+    width: 95%;
+    padding: 0px 10px;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}

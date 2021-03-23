@@ -1,0 +1,32 @@
+.dashboard {
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.dashboard__message {
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboard__image {
+    width: 30%;
+    object-fit: contain;
+}
+
+.dashboard__appointments {
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboard__statistics {
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboard__conditions {
+    display: flex;
+    justify-content: space-evenly;
+}

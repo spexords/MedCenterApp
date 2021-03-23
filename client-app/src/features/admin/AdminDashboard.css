@@ -1,0 +1,19 @@
+.adminDashboard {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.newUserForm {
+    flex: 1;
+    display: flex;
+    padding-right: 20px;
+    flex-direction: column;
+}
+
+.userActions {
+    flex: 1;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
